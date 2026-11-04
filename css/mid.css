@@ -382,7 +382,7 @@ footer {
         
     }
     .benefits-sec .card, .gacha-sec .card {
-        flex: 0 0 calc((100% - 20px) / 2); /* 手機版變為一排兩個 */
+        flex: 0 0 calc((100% - 20px) / 1); /* 手機版變為一排兩個 */
     }
     /*article*/
 article{
